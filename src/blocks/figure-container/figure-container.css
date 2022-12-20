@@ -1,0 +1,7 @@
+.figure-container {
+  position: relative;
+  width: 600px;
+  height: 600px;
+  background-color: #d9d9d9;
+  overflow: hidden;
+}

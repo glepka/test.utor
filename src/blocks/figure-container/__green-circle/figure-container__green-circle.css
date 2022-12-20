@@ -1,0 +1,9 @@
+.figure-container__green-circle {
+  width: 480px;
+  height: 480px;
+  border-radius: 50%;
+  position: absolute;
+  top: -161px;
+  left: -141px;
+  background: green;
+}

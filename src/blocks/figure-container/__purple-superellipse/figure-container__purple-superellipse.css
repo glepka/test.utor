@@ -1,0 +1,9 @@
+.figure-container__purple-superellipse {
+  width: 452px;
+  height: 120px;
+  border-radius: 43px;
+  background: purple;
+  position: absolute;
+  top: 402px;
+  left: 74px;
+}

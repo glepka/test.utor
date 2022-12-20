@@ -1,0 +1,9 @@
+.figure-container__light-green-circle {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background: lightgreen;
+  position: absolute;
+  top: 202px;
+  left: 335px;
+}

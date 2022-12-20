@@ -1,0 +1,13 @@
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/image/image.css);
+@import url(../blocks/image/_active/image_active.css);
+
+@import url(../blocks/main-container/main-container.css);
+
+@import url(../blocks/figure-container/figure-container.css);
+@import url(../blocks/figure-container/__green-circle/figure-container__green-circle.css);
+@import url(../blocks/figure-container/__blue-rectangle/figure-container__blue-rectangle.css);
+@import url(../blocks/figure-container/__light-green-circle/figure-container__light-green-circle.css);
+@import url(../blocks/figure-container/__red-triangle/figure-container__red-triangle.css);
+@import url(../blocks/figure-container/__purple-superellipse/figure-container__purple-superellipse.css);

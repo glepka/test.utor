@@ -1,0 +1,9 @@
+.figure-container__red-triangle {
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-bottom: 162px solid red;
+  border-left: 150px solid transparent;
+}

@@ -1,0 +1,9 @@
+.figure-container__blue-rectangle {
+  width: 70px;
+  height: 470px;
+  background: blue;
+  transform: rotate(-43deg);
+  position: absolute;
+  top: 30px;
+  left: 265px;
+}

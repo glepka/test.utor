@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/glepka/mesto.git"
+    "url": "git+https://github.com/glepka/test.utor.git"
   },
   "author": "Gleb Lyashenkov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/glepka/mesto/issues"
+    "url": "https://github.com/glepka/test.utor/issues"
   },
-  "homepage": "https://github.com/glepka/mesto#readme",
+  "homepage": "https://github.com/glepka/test.utor",
   "devDependencies": {
     "@babel/core": "^7.19.6",
     "@babel/preset-env": "^7.19.4",

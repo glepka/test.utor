@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/glepka/test.utor/issues"
   },
-  "homepage": "https://github.com/glepka/test.utor",
+  "homepage": "https://glepka.github.io/test.utor",
   "devDependencies": {
     "@babel/core": "^7.19.6",
     "@babel/preset-env": "^7.19.4",
